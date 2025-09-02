@@ -1,2 +1,2 @@
 # IT3045
-Contemporary Programming class
+## This contain code assignments from my Contemporary Programming class
